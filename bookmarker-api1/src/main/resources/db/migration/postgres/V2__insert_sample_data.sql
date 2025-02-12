@@ -1,0 +1,15 @@
+Insert into bookmarks(title,url,created_at)Values('how to code','http://sql.com',CURRENT_TIMESTAMP()),('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP())
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()),
+('how to code','http://sql.com',CURRENT_TIMESTAMP()));
